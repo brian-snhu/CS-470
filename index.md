@@ -1,7 +1,9 @@
 # Brian Russell
 
 June 22, 2021<br>
-My Final Reflection for CS-470 Full Stack Development II
+My Final Reflection for CS-470 Full Stack Development II<br>
+[PDF version here](https://github.com/brian-snhu/CS-470/blob/gh-pages/CS-470%208-1%20Final%20Reflection.pdf)
+
 
 ## Experiences and Strengths
 <p align="center">
